@@ -1,0 +1,5 @@
+export SQL_FIX_USER=
+export SQL_FIX_PASSWORD=
+export SQL_FIX_HOST=
+export SQL_FIX_PORT=
+export SQL_FIX_DB=
